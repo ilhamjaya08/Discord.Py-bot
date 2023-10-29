@@ -1,1 +1,1 @@
-# Discord.Py-bot
+# ClyneBot-Discord.Py
